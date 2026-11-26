@@ -1,0 +1,16 @@
+{
+  "name": "skills-web-max",
+  "owner": {
+    "name": "Raúl Egaña"
+  },
+  "metadata": {
+    "description": "Skills para crear landings, sitios web, e-commerce y sistemas de gestión según el plan vendido: Básico, Profesional o Premium."
+  },
+  "plugins": [
+    {
+      "name": "web-planes",
+      "source": "./plugins/web-planes",
+      "description": "Tres skills (web-basico, web-profesional, web-premium) con el alcance, el diseño, la seguridad y lo legal de cada plan."
+    }
+  ]
+}

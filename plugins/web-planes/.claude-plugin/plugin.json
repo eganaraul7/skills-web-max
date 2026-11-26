@@ -1,0 +1,8 @@
+{
+  "name": "web-planes",
+  "version": "0.1.0",
+  "description": "Crea landings, sitios web, e-commerce y sistemas de gestión con el nivel exacto del plan vendido (Básico, Profesional o Premium).",
+  "author": {
+    "name": "Raúl Egaña"
+  }
+}

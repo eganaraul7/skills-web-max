@@ -1,0 +1,26 @@
+/* Aviso de cookies. Ajusta las variables al diseño del proyecto (no lo dejes con el aspecto por defecto). */
+.ck {
+  --ck-bg: #fff; --ck-fg: #141414; --ck-muted: #5c5c5c; --ck-line: #e2e2e2; --ck-accent: #141414; --ck-on-accent: #fff;
+  position: fixed; z-index: 1000; inset: auto 1rem 1rem auto; width: min(26rem, calc(100vw - 2rem));
+  padding: 1.25rem; background: var(--ck-bg); color: var(--ck-fg);
+  border: 1px solid var(--ck-line); border-radius: 12px; box-shadow: 0 12px 40px rgb(0 0 0 / .14);
+  font: 400 0.9rem/1.5 inherit;
+}
+.ck [hidden] { display: none !important; }
+.ck__t { margin: 0 0 .35rem; font-weight: 700; font-size: 1rem; }
+.ck__p { margin: 0 0 1rem; color: var(--ck-muted); }
+.ck__p a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
+.ck__cfg { margin: 0 0 1rem; border-top: 1px solid var(--ck-line); }
+.ck__row { display: flex; gap: 1rem; align-items: center; justify-content: space-between; padding: .7rem 0; border-bottom: 1px solid var(--ck-line); cursor: pointer; }
+.ck__row small { display: block; color: var(--ck-muted); font-size: .8rem; }
+.ck__row input { width: 1.15rem; height: 1.15rem; accent-color: var(--ck-accent); flex: none; }
+.ck__btns { display: flex; flex-wrap: wrap; gap: .5rem; }
+.ck__btns button {
+  flex: 1 1 auto; min-height: 44px; padding: .55rem .9rem; border-radius: 8px; cursor: pointer;
+  font: 600 .85rem/1 inherit; border: 1px solid var(--ck-line); background: transparent; color: var(--ck-fg);
+}
+.ck__btns .ck__ok { background: var(--ck-accent); color: var(--ck-on-accent); border-color: var(--ck-accent); }
+.ck__btns button:focus-visible { outline: 2px solid var(--ck-accent); outline-offset: 2px; }
+@media (max-width: 480px) { .ck { inset: auto .5rem .5rem .5rem; width: auto; } }
+@media (prefers-reduced-motion: no-preference) { .ck { animation: ck-in .3s ease-out; } }
+@keyframes ck-in { from { opacity: 0; transform: translateY(8px); } }
