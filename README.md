@@ -54,7 +54,7 @@ plugins/web-planes/
     ├── legal.md                  privacidad, términos, cookies, consentimiento, pie
     ├── stack-hosting.md          tecnología y hosting por caso
     ├── herramientas.md           skills por plan y cómo instalarlas
-    ├── cms.md                    editor de contenido: cómo instalar y conectar cms-web-max
+    ├── cms.md                    editor de contenido: cómo instalar y conectar el CMS (cms-web-skills)
     ├── escritorio.md             versión .exe
     ├── cookies/                  gestor de cookies listo (JS + CSS)
     ├── plantillas/               textos legales y env.example
@@ -73,4 +73,4 @@ Después se sube la versión nueva (subiendo `version` en `plugin.json`).
 
 ## CMS
 
-- El CMS (`cms-web-max`) vive en su propio repositorio local. Para usar las skills con CMS en otra computadora, esa carpeta también tiene que estar allí.
+- El CMS vive en su propio repositorio local: `DocumentsDesarrollo- El CMS (`cms-web-max`) vive en su propio repositorio local.1-Proyectos- El CMS (`cms-web-max`) vive en su propio repositorio local.3-Plantillas y starterss-web-skills`. Para usar las skills con CMS en otra computadora, esa carpeta también tiene que estar allí.

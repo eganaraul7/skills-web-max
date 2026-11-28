@@ -1,4 +1,4 @@
-# CMS: editor de contenido en tiempo real (cms-web-max)
+# CMS: editor de contenido en tiempo real (cms-web-skills)
 
 Con el CMS, el cliente cambia **textos, fotos y vídeos** de su web real de forma fácil y directa, sin llamar a Raúl:
 - entra a `/cms/`, hace clic en una sección, escribe sobre los textos y cambia las imágenes;

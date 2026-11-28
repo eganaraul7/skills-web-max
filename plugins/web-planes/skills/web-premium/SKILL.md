@@ -26,7 +26,7 @@ Los archivos compartidos están en `../../shared/`, relativo a esta SKILL.md.
 | Accesibilidad | AA revisada a fondo: teclado, lector de pantalla, contraste y movimiento reducido |
 | Velocidad | 90 o más con las animaciones y el vídeo. Cuesta más trabajo y es parte de lo que se cobra |
 | Stack | **Astro / React** en la vitrina (con Cult UI y `vercel-react-best-practices` cuando haya React), Django para la trastienda y PHP o Django para sistemas muy a medida (ver `shared/stack-hosting.md`) |
-| CMS | **Incluido.** Se instala cms-web-max y sus bloques se pintan con el diseño del proyecto (ver `shared/cms.md`) |
+| CMS | **Incluido.** Se instala el CMS (cms-web-skills) y sus bloques se pintan con el diseño del proyecto (ver `shared/cms.md`) |
 | Escritorio (.exe) | **Incluido** en los sistemas, entregado con el icono en el escritorio (`shared/escritorio.md`) |
 
 **Funciones por tipo:** las de la columna **Premium** de `shared/alcance-por-tipo.md`, que incluye las de los otros dos planes. En resumen:
