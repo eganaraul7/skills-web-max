@@ -16,7 +16,7 @@ Con el CMS, el cliente cambia **textos, fotos y vídeos** de su web real de form
 
 ## Dónde está
 
-- **Repositorio del CMS:** `C:\Users\raule\Documents\cms-web-max`.
+- **Repositorio del CMS:** `C:\Users\raule\Documents\Desarrollo\01-Proyectos\03-Plantillas y starters\cms-web-skills`.
 - **Guía completa:** `cms/README.md` dentro de ese repositorio. **Léela antes de instalarlo**: manda sobre este resumen si algo cambió.
 - **Si esa carpeta no existe en esta computadora, pide a Raúl el repositorio.** No uses el Studio viejo de `paginas_webs`.
 
