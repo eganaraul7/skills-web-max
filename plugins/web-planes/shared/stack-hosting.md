@@ -37,11 +37,11 @@ Lo paga el cliente, directo al proveedor y **a su nombre**. Se decide con él.
 | Caso | Opción | Costo aproximado | Notas |
 |---|---|---|---|
 | Solo vitrina | Netlify, Vercel o Cloudflare Pages | Gratis | Solo se paga el dominio |
-| Django | **PythonAnywhere (predeterminada)** | Unos 5 USD/mes | Precio fijo, MySQL incluido, sin servidor que administrar |
-| Django | Hostinger VPS | 5 a 7 USD/mes con contrato largo | **Sube al renovar**; el servidor hay que administrarlo (actualizaciones, seguridad, respaldos) |
+| Django | **PythonAnywhere (predeterminada)** | Unos 10 USD/mes (plan Developer; el de 5 USD fue reemplazado en 2026) | Precio fijo, MySQL incluido, sin servidor que administrar. El gratuito no admite dominio propio |
+| Django | Hostinger VPS (KVM 1) | Unos 6,50 USD/mes con contrato de 24 meses (renueva a unos 12) | **Sube al renovar**; un VPS puede alojar las webs de varios clientes; el servidor hay que administrarlo (actualizaciones, seguridad, respaldos) |
 | Django | Railway o Render | 5 a 15 USD/mes o más | Cobran según el uso; la base de datos se paga aparte |
 | Sistemas PHP | Hostinger, plan compartido | Unos 3 USD/mes | PHP, MySQL, SSL y correo incluidos |
 | Dominio .com | Cualquier registrador | 10 a 15 USD/año | A nombre del cliente |
 
-- La cotización siempre dice el **costo anual estimado** de tener la web en línea (por ejemplo, "unos 70 a 80 USD al año entre hosting y dominio"), para que no haya sorpresas.
+- La cotización siempre dice el **costo anual estimado** de tener la web en línea (por ejemplo, con PythonAnywhere: "unos 130 a 135 USD al año entre hosting y dominio"; una web solo estática: solo el dominio), para que no haya sorpresas.
 - **Los precios cambian:** confírmalos en la web del proveedor antes de cotizar y dile a Raúl de qué fecha son.

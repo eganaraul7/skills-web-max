@@ -52,7 +52,7 @@ plugins/web-planes/
     ├── legal.md                  privacidad, términos, cookies, consentimiento, pie
     ├── stack-hosting.md          tecnología y hosting por caso
     ├── herramientas.md           skills por plan y cómo instalarlas
-    ├── cms.md                    editor de contenido (pendiente del CMS nuevo)
+    ├── cms.md                    editor de contenido: cómo instalar y conectar cms-web-max
     ├── escritorio.md             versión .exe
     ├── cookies/                  gestor de cookies listo (JS + CSS)
     ├── plantillas/               textos legales y env.example
@@ -69,6 +69,6 @@ Si cambia un precio o algo del alcance, se actualizan a la vez:
 
 Después se sube la versión nueva (subiendo `version` en `plugin.json`).
 
-## Pendiente
+## CMS
 
-- **CMS:** se está construyendo como proyecto aparte. Cuando esté listo se actualiza `shared/cms.md`.
+- El CMS (`cms-web-max`) vive en su propio repositorio local. Para usar las skills con CMS en otra computadora, esa carpeta también tiene que estar allí.
