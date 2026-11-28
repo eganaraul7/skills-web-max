@@ -1,7 +1,7 @@
 # skills-web-max
 
-
 Skills para desarrollo de páginas y sistemas básicos, profesionales y premium.
+
 Tres skills de Claude Code para crear **landings, sitios web, e-commerce y sistemas de gestión** según el plan que vendió Raúl:
 
 | Skill | Se llama con | Idea |
